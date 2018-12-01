@@ -1,0 +1,14 @@
+Index: Daniel1/src/Pierwsza.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Daniel1/src/Pierwsza.java	(date 1543675133000)
++++ Daniel1/src/Pierwsza.java	(date 1543675159573)
+@@ -2,5 +2,6 @@
+     public static void main(String[] args) {
+ 
+         System.out.println("druga próba");
++        System.out.println("trzecia próba");
+     }
+ }
